@@ -38,6 +38,7 @@ const options = {
   disableDefaultUI: true,
   zoomControl: true,
 };
+// "react-google-maps": "^9.4.5",
 
 function Map() {
   const REACT_APP_GOOGLE_MAPS_API_KEY =
